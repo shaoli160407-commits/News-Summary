@@ -1,0 +1,3 @@
+display_name: Global Trade Daily
+short_description: Use DeepSeek to create trade daily reports.
+default_prompt: Use DeepSeek API to research, generate, and email today's global trade daily report.

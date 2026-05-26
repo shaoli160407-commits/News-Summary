@@ -1,0 +1,34 @@
+{
+  "report_date": "2026-05-26",
+  "title": "全球外贸资讯日报",
+  "executive_summary": "关税、油价、美元和物流变化共同影响本期外贸报价。企业应关注制裁合规、锁汇和舱位安排。",
+  "trend": "外贸环境偏谨慎，建议缩短报价有效期并提前管理汇率和物流成本。",
+  "categories": [
+    {
+      "name": "政策法规",
+      "items": [
+        {
+          "title": "测试政策新闻",
+          "source": "Test Source",
+          "date": "2026-05-26",
+          "url": "https://example.com/policy",
+          "summary": "这是用于验证脚本的政策新闻摘要。内容模拟关税政策变化和合规要求。",
+          "impact": "测试潜在影响字段是否正确写入 Word 文档。"
+        }
+      ]
+    },
+    {
+      "name": "市场行情",
+      "items": [
+        {
+          "title": "测试市场新闻",
+          "source": "Test Source",
+          "date": "2026-05-26",
+          "url": "https://example.com/market",
+          "summary": "这是用于验证脚本的市场行情摘要。内容模拟油价和美元波动。",
+          "impact": "测试市场类新闻是否正确生成表格。"
+        }
+      ]
+    }
+  ]
+}
